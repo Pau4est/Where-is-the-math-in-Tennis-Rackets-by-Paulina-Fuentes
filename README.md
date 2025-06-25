@@ -3,6 +3,11 @@
 
 Tennis is one of the most popular racket sports. For this reason, my proposal for this project is to study the movement of the tennis racket by analizing a mathematical model with a second-order differential equation that models the motion of the ball's center of mass during impact with the racket, considering damping and restoring force, focusing on how its structure behaves during ball impact.
 
+## Presenting my Idea
+In the following video you can check a short video about the idea for this project.
+https://youtu.be/g7c3CCTnlTs
+
+
 ## Personal Motivation
 
 For this project, I am exploring the intersection of two of my main interests. First, tennis, a sport I began practicing when I arrived at university and quickly fell in love with. Second, mechanical engineering, the field I am studying, which makes it especially interesting for me to understand mechanical applications and how design affects performance.
