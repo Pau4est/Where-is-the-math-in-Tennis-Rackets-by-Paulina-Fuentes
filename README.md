@@ -34,11 +34,10 @@ https://youtu.be/IJgNciN6e3Q?si=GYTx-2iaLSoqoMbR&t=42
 
 In this article, a mathematical model for tennis racket movement.
 - Brannigan, Michael & Adali, Sarp. (1981). *Mathematical modelling and simulation of a tennis racket*. Medicine and Science in Sports and Exercise, 13(1), 44-53.  
-  [Link to article](https://www.researchgate.net/publication/15980234_Mathematical_modelling_and_simulation_of_a_tennis_racket)
-
+  [https://www.researchgate.net/publication/15980234_Mathematical_modelling_and_simulation_of_a_tennis_racket](https://www.researchgate.net/publication/15980234_Mathematical_modelling_and_simulation_of_a_tennis_racket)
 I found this source as complement of the previous one. However, it is the reference on which I base much of my work.
 - Yang, S., Fafitis, A., & Wiezel, A. (2012). *Nonlinear impact model of a tennis racket and a ball*. Journal of Mechanical Science and Technology, 26(2), 315–321.  
-  [DOI](https://doi.org/10.1007/s12206-011-1027-2)
+  [https://doi.org/10.1007/s12206-011-1027-2](https://doi.org/10.1007/s12206-011-1027-2)
 
 This source is helpful to get familiar with theoretical knowledge about vibrations
 - *Tennis Racket Physics*. Physics USYD.  
