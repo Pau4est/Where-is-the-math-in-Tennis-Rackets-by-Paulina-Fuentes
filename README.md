@@ -6,7 +6,7 @@ Tennis is one of the most popular racket sports. For this reason, my proposal fo
 ## About Me
 I am a mechanical systems engineer. Two years ago I began university together with my love for tennis. Right now I am the president of the Tennis Club of my university. Regularly I organize events and teach tennis basics to beginners. That is why I can say from firsthand experience that the rackets, which in principle can look like simple tools, involve a complexity, and it is really useful to comprehend how they work to choose properly according to the level, play style, body necessities, and economic variables. This work is important, so with the proper tools I can provide more information for the club and community in general.
 
-![Paulina Fuentes.png](Paulina Fuentes.png)
+![Image](https://github.com/user-attachments/assets/cc103233-d887-4e5c-8e86-4dde795779ca)
 
 ## Presenting my Idea
 In the following video you can check a short video about the idea for this project.
@@ -14,11 +14,9 @@ https://youtu.be/g7c3CCTnlTs
 
 
 ## Personal Motivation
-
 For this project, I am exploring the intersection of two of my main interests. First, tennis, a sport I began practicing when I arrived at university and quickly fell in love with. Second, mechanical engineering, the field I am studying, which makes it especially interesting for me to understand mechanical applications and how design affects performance.
 
 ## Math Classes Taken
-
 - Precalculus  
 - Calculus I  
 - Calculus II  
@@ -26,11 +24,9 @@ For this project, I am exploring the intersection of two of my main interests. F
 - Statistics for Engineers  
 
 ## Focus
-
 I am interested in the mathematical model. I believe that fully understanding the mathematics and physics behind rackets not only allows players to choose a racket that suits their play style, but also helps in designing and building better rackets.
 
 ## Video
-
 **How to Choose a Tennis Racket - HEAD**  
 In this video we can understand how different physical properties affect performance when playing.
 https://youtu.be/IJgNciN6e3Q?si=GYTx-2iaLSoqoMbR&t=42
