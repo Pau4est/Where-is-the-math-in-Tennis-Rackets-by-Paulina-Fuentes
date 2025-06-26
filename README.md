@@ -42,7 +42,13 @@ https://youtu.be/g7c3CCTnlTs?si=d9slHGN8Wikl_qUl
 ![Image](https://github.com/user-attachments/assets/cadda7c8-b52e-43a8-b6b5-7e759ccddcb7)
 
 ## Conclusion
-I enjoy to work and read about this topic, not only because it was easier for me to get the idea from physical. I recognize I am not 
+This project focused on the mathematical modeling of the dynamics between a tennis ball and a racket, specifically analyzing it with second-order differential equations derived from Newton's Second Law, which models the forces acting on the tennis ball as it compresses and rebounds off the string bed.
+
+My previous knowledge of physics and calculus helped me follow what is happening behind the equations, though I faced challenges understanding how real-world systems like damping and stiffness are mathematically approximated. I also had to learn how to apply numerical tools and simulations to test the model.
+
+One of the biggest challenges was interpreting the academic papers, considering that I didn't have a sufficient level of mathematics to understand them, and that required an understanding of each of the factors involved to explain it in a much simpler way.
+
+I enjoyed working and reading on the topic, not only because it was easier for me to grasp the idea of the physical phenomena occurring, but also because I could easily relate it to my experience. I recognize that the level of mathematics required to fully understand the subject is necessary; however, I see it as an excellent opportunity to make the most of my upcoming courses and understand the true value and application of what I learn. On the other hand, I consider my model to be simple enough to introduce the complexity of racket dynamics, but it is essential to add more variables such as climate or shot angle to better complement the work. I am aware that I will soon cover and expand my understanding of systems of differential equations, numerical methods, and their applications in real-life equipment design in order to attack the same problem with more tools that will allow me a deeper understanding and, in the future, propose a more complete model, both numerically and for simulations.
 
 ## References
 
