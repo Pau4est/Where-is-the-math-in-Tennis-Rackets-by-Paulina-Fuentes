@@ -8,11 +8,6 @@ I am a mechanical systems engineer. Two years ago I began university together wi
 
 ![Image](https://github.com/user-attachments/assets/cc103233-d887-4e5c-8e86-4dde795779ca)
 
-## Presenting my Idea
-In the following video you can check a short video about the idea for this project.
-https://youtu.be/g7c3CCTnlTs
-
-
 ## Personal Motivation
 For this project, I am exploring the intersection of two of my main interests. First, tennis, a sport I began practicing when I arrived at university and quickly fell in love with. Second, mechanical engineering, the field I am studying, which makes it especially interesting for me to understand mechanical applications and how design affects performance.
 
@@ -30,6 +25,17 @@ I am interested in the mathematical model. I believe that fully understanding th
 **How to Choose a Tennis Racket - HEAD**  
 In this video we can understand how different physical properties affect performance when playing.
 https://youtu.be/IJgNciN6e3Q?si=GYTx-2iaLSoqoMbR&t=42
+
+## Presenting my Idea
+In the following video you can check a short video about the idea for this project.
+[![Watch the video](https://img.youtube.com/vi/g7c3CCTnlTs/hqdefault.jpg)](https://www.youtube.com/watch?v=g7c3CCTnlTs)
+
+
+## Mathematical Development of the Proposed Model
+![Image](https://github.com/user-attachments/assets/3ea5950b-c086-4b20-918e-eb81cf9d3bd5)
+![Image](https://github.com/user-attachments/assets/dfe441f0-178c-4201-aa79-2ff28b71de94)
+![Image](https://github.com/user-attachments/assets/d9504286-321c-48d0-836d-69c265d36f84)
+![Image](https://github.com/user-attachments/assets/cadda7c8-b52e-43a8-b6b5-7e759ccddcb7)
 
 ## Conclusion
 I enjoy to work and read about this topic, not only because it was easier for me to get the idea from physical. I recognize I am not 
