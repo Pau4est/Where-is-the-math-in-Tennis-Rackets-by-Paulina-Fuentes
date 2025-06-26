@@ -6,7 +6,7 @@ Tennis is one of the most popular racket sports. For this reason, my proposal fo
 ## About Me
 I am a mechanical systems engineer. Two years ago I began university together with my love for tennis. Right now I am the president of the Tennis Club of my university. Regularly I organize events and teach tennis basics to beginners. That is why I can say from firsthand experience that the rackets, which in principle can look like simple tools, involve a complexity, and it is really useful to comprehend how they work to choose properly according to the level, play style, body necessities, and economic variables. This work is important, so with the proper tools I can provide more information for the club and community in general.
 
-![Texto alternativo de la imagen](ruta/a/la/imagen.ext)
+![Paulina Fuentes.png](Paulina Fuentes.png)
 
 ## Presenting my Idea
 In the following video you can check a short video about the idea for this project.
