@@ -24,11 +24,14 @@ I am interested in the mathematical model. I believe that fully understanding th
 ## Video
 **How to Choose a Tennis Racket - HEAD**  
 In this video we can understand how different physical properties affect performance when playing.
-https://youtu.be/IJgNciN6e3Q?si=GYTx-2iaLSoqoMbR&t=42
+[![Watch the video](https://img.youtube.com/vi/IJgNciN6e3Q&t/hqdefault.jpg)](https://www.youtube.com/watch?v=IJgNciN6e3Q&t=42s)
+https://www.youtube.com/watch?v=IJgNciN6e3Q&t=42s
 
 ## Presenting my Idea
 In the following video you can check a short video about the idea for this project.
+
 [![Watch the video](https://img.youtube.com/vi/g7c3CCTnlTs/hqdefault.jpg)](https://www.youtube.com/watch?v=g7c3CCTnlTs)
+https://youtu.be/g7c3CCTnlTs?si=d9slHGN8Wikl_qUl
 
 
 ## Mathematical Development of the Proposed Model
