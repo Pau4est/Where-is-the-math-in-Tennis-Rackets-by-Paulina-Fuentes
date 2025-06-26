@@ -24,7 +24,8 @@ I am interested in the mathematical model. I believe that fully understanding th
 ## Video
 **How to Choose a Tennis Racket - HEAD**  
 In this video we can understand how different physical properties affect performance when playing.
-[![Watch the video2](https://img.youtube.com/vi/IJgNciN6e3Q&t/hqdefault.jpg)](https://www.youtube.com/watch?v=IJgNciN6e3Q&t=42s)
+
+[![How to Choose a Tennis Racket](https://img.youtube.com/vi/IJgNciN6e3Q&t/hqdefault.jpg)](https://www.youtube.com/watch?v=IJgNciN6e3Q&t=42s)
 https://www.youtube.com/watch?v=IJgNciN6e3Q&t=42s
 
 ## Presenting my Idea
